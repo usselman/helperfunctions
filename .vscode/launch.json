@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shirishsarkar/Library/Mobile Documents/com~apple~CloudDocs/Documents/_CODE/helperfunctions",
+      "program": "/Users/shirishsarkar/Library/Mobile Documents/com~apple~CloudDocs/Documents/_CODE/helperfunctions/build/Debug/outDebug"
+    }
+  ]
+}
